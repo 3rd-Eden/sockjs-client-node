@@ -19,9 +19,9 @@
   "author": "Arnout Kazemier",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "7.0.x",
-    "primus": "4.0.x",
-    "ws": "0.8.x"
+    "jsdom": "~9.8.3",
+    "primus": "~6.0.5",
+    "ws": "~1.1.1"
   },
   "devDependencies": {
     "sockjs": "0.3.x"
